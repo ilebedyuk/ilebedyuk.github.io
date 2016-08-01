@@ -1,0 +1,45 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+}
+
+h1 {
+	margin-bottom: 30px;
+}
+
+.navbar-brand {
+	font-size: 1.8em;
+	font-weight: bold;
+}
+
+li {
+	text-align: center;
+	font-size: 1.2em;
+	border: 1px solid #fff;
+	background-color: #e7e7e9;
+	font-weight: bold;
+}
+
+.nav {
+	margin-bottom: 1px;
+	margin-top: 1px;
+}
+
+p {
+	padding: 0 20px 30px 20px;
+}
+
+.sections {
+	width: 99%;
+	background-color: #e7e7e7;
+	margin: 0 auto;
+	border: 1px;
+	border-radius: 10px;
+	color:#000;
+}
+
+h3 {
+	padding-top: 15px;
+}
